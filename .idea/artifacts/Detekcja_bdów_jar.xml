@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Detekcja błędów:jar">
+    <output-path />
+    <root id="archive" name="Detekcja błędów.jar">
+      <element id="module-output" name="Transmission error detection simulator" />
+    </root>
+  </artifact>
+</component>
