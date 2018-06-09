@@ -217,6 +217,8 @@ public class Controller  implements Initializable {
                     disruptedBitsArea.setText(disruptedBitsArea.getText() + bit + " of byte " + entry.getKey() + ", ");
                 }
             }
+            disruptedBitsArea.setText(disruptedBitsArea.getText().substring(0, disruptedBitsArea.getText().length()
+                    - 2));
         }
         else {
             disruptedBitsArea.setText(disruptedBitsArea.getText() + "----");
