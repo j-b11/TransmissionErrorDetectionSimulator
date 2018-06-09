@@ -1,14 +1,13 @@
-# **TransmissionErrorDetectionSimulator**
+# **Transmission Error Detection Simulator**
 
-
-## Java FX application that makes simulation of detecting transmission errors. 
+Java FX application that makes simulation of detecting transmission errors. 
 Implements algorithms such as Hamming code, Cyclic Redundancy Check (CRC32Bit, CRC16Bit, SDLC, SDLC Reverse) and parity bit control.
 
 
 The following simulation parameters can be specified:
--Input signal length
--Error detecting algorithm
--Disruption generator
+*Input signal length
+*Error detecting algorithm
+*Disruption generator
 
 
 ## Screenshots
