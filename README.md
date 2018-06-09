@@ -5,9 +5,12 @@ Implements algorithms such as Hamming code, Cyclic Redundancy Check (CRC32Bit, C
 
 
 The following simulation parameters can be specified:
-*Input signal length
-*Error detecting algorithm
-*Disruption generator
+
+-Input signal length
+
+-Error detecting algorithm
+
+-Disruption generator
 
 
 ## Screenshots
